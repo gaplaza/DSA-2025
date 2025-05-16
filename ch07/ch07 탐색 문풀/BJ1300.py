@@ -3,7 +3,7 @@
 
 import sys
 
-def main() -> None:
+def main():
     input = sys.stdin.readline
     N = int(input())
     k = int(input())
